@@ -669,8 +669,9 @@ a {
     /*color: #025920;*/
 
     /*조금 더 어두운 그린*/
-    color: #004A2F;
+    /*color: #004A2F;*/
 
+    color: #24009C;
 
     /*font-weight: bold;*/
     text-decoration: none
@@ -766,7 +767,8 @@ h3.comment-reply-title:after {
   width: 30px;
   /*background-color: #009552;*/
   /*  background-color: #025920;;*/
-    background-color: #004A2F;
+  /*  background-color: #004A2F;*/
+    background-color: #24009C;
   height: 2px;
   bottom: 0;
 }
