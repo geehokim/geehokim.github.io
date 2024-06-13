@@ -767,8 +767,9 @@ h3.comment-reply-title:after {
   width: 30px;
   /*background-color: #009552;*/
   /*  background-color: #025920;;*/
-  /*  background-color: #004A2F;*/
-    background-color: #24009C;
+    background-color: #004A2F;
+  /*  background-color: #24009C;*/
+
   height: 2px;
   bottom: 0;
 }
