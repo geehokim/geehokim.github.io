@@ -684,6 +684,44 @@ a:hover,a:focus {
     text-decoration: underline;
 }
 
+.company-link {
+    font-weight: 700;
+}
+
+.company-link.qualcomm {
+    color: #3253DC;
+}
+
+.company-link.naver-cloud {
+    color: #03C75A;
+}
+
+.news-list {
+    display: grid;
+    gap: 0.35em;
+    margin: 0 0 10px;
+}
+
+.news-item {
+    display: grid;
+    grid-template-columns: 7.25em minmax(0, 1fr);
+    column-gap: 1em;
+    align-items: start;
+}
+
+.news-date {
+    white-space: nowrap;
+}
+
+.news-content {
+    min-width: 0;
+}
+
+.spotlight {
+    color: #D93025;
+    font-weight: 700;
+}
+
 a small {
     font-size: 11px;
     color: #777;
@@ -1073,5 +1111,3 @@ footer {
         color: #444
     }
 }
-
-
